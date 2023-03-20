@@ -1,0 +1,19 @@
+{
+	"$schema": "sublime://packagecontrol.io/schemas/repository/4.0.0",
+
+	"schema_version": "4.0.0",
+
+	"packages": [
+		{
+			"name": "GitSavvy 2",
+			"details": "../GitSavvy",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"python_versions": ["3.3", "3.8"],
+					"tags": true
+				}
+			]
+		}
+	]
+}
